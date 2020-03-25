@@ -1,6 +1,4 @@
 # Graph for Cut Pursuit
-# author: Loic Landrieu
-# date: 2017
 
 CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
 
