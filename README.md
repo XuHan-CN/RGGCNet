@@ -1,6 +1,9 @@
 
 # RGGCNet: 3D Sematic Segmentation based Debris Recognition of Terrain Point Cloud
 
+## Dataset(LPMT)
+If you are interest in our dataset(LPMT), please click http://xuhan-cn.com/LPMT/dataset/HTML/data.html
+
 ## Code structure
 * `./partition/*` - Partition code (Multi-attribute descriptor extraction, terrain feature division)
 * `./learning/*` - Learning and testing code (Feature Extraction Network).
